@@ -16,8 +16,8 @@ type User struct {
 
 func main() {
 	user := User{
-		FirstName:   "Trevor",
-		LastName:    "Sawler",
+		FirstName:   "Аполлон",
+		LastName:    "Юпитерский",
 		PhoneNumber: "1 555 555-1212",
 	}
 
